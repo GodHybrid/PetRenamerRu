@@ -1,6 +1,9 @@
 Mods: {
 	PetRenamer: {
-		Keybinds.RenamePet.DisplayName: Переименовать питомца
+		Keybinds: {
+			RenamePet.DisplayName: Переименовать питомца
+			Unbound: <не привязано>
+		}
 
 		Configs: {
 			Config: {
@@ -36,6 +39,7 @@ Mods: {
 			PetItems: {
 				PetName: Имя питомца: {0}
 				PetOwner: Хозяин/Хозяйка: {0}
+				PetRename: PetRenamer: Нажмите '{0}', чтобы дать питомцу имя
 			}
 		}
 
